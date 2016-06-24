@@ -1,1 +1,1 @@
-# -imitationUpLoadService
+# 测试项目,模拟后台压缩图片.压缩完毕后后整体提交数据
